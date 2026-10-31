@@ -3,14 +3,14 @@
 
 
    ## projects: option3
-   - [option3project.com](https://option3project.com) (a Weblium-based site)
-   - [@option3project] (https://www.youtube.com/option3project) (YouTube)
+   - [option3project.com](https://option3project.com) (Weblium-based site)
+   - ['@option3project'] (https://www.youtube.com/option3project) (YouTube)
    - [@option3project] (https://www.tiktok.com/@option3project) (TikTok)
 
 
    ## links 
    - [LinkedIn.com/in/dovapro](https://linkedin.com/in/dovapro)
-   - [sites.google.com/view/dovapro] (https://sites.google.com/view/dovapro) (old portfolio site)
+   - [sites.google.com/view/dovapro] (https://sites.google.com/view/dovapro) (old site)
 
 
    ## biography
