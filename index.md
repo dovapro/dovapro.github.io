@@ -10,7 +10,7 @@
 
    ## links 
    - [LinkedIn.com/in/dovapro](https://linkedin.com/in/dovapro)
-   - [sites.google.com/view/dovapro] (https://sites.google.com/view/dovapro) (old site)
+   - [sites.google.com/view/dovapro](https://sites.google.com/view/dovapro) (old site)
 
 
    ## biography
