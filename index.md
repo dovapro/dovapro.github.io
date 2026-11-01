@@ -3,22 +3,20 @@
 
    ## projects
    ### academic (regression)
-   - {download}`research note <files/research_note_efficacy_Cordova.pdf>`
-   - {download}`Stata do-file <files/Cordova_PPAD_Cand_Asses_clean3.do>`
+   - {download}`PPAD research note <files/research_note_efficacy_Cordova.pdf>`
+   - {download}`PPAD assessment memo <files/Cordova_Candidate_Assessment_revised.pdf>`
+   - {download}`Stata .do file <files/Cordova_PPAD_Cand_Asses_clean3.do>`
 
    ### academic (literature review)
    - {download}`literature review <files/lit_review_sample.pdf>`
    - {download}`literature review spreadsheet <files/lit_review_spreadsheet.xlsx>`
-
-   ### academic (complex systems) 
-   - [coming soon]
 
    ### social entrepreneurship
    - [option3project.com](https://option3project.com)
    - [@option3project](https://www.youtube.com/option3project) (YouTube)
    - [@option3project](https://www.tiktok.com/@option3project) (TikTok)
 
-   ### fundraising: crowdfund
+   ### fundraising
    - [GoFundMe.com/HarlemDream](https://www.gofundme.com/f/HarlemDream)
 
    ### links 
