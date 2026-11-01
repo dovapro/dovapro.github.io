@@ -6,7 +6,7 @@
    - {download}`research note <files/research_note_efficacy_Cordova.pdf>`
    - {download}`Stata do-file <files/Cordova_PPAD_Cand_Asses_clean3.do>`
 
-   ### academic (econometric literature review)
+   ### academic (literature review)
    - {download}`literature review <files/lit_review_sample.pdf>`
    - {download}`literature review spreadsheet <files/lit_review_spreadsheet.xlsx>`
 
